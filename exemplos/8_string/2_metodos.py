@@ -1,8 +1,9 @@
 # 1. Formatar as palavras dentro da string
 nome = "Ana JUlIA"
-print(nome.lower()) # caixa baixa
-print(nome.upper()) # CAIXA ALTA
-print(nome.capitalize()) # Primeira letra em maiusculo
+print(nome.lower()) # ana julia
+print(nome.upper()) # ANA JULIA
+print(nome.capitalize()) # Ana julia
+print(nome.title()) # Ana Julia
 
 # 2. Limpeza de espaços
 nome = " Ana Julia "

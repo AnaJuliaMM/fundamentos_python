@@ -30,6 +30,7 @@ fila.insert(0, "Alice")
 print(fila)
 
 
+
 # ---------------------------------------------------------------------------------
 # DESAFIO 3
 
@@ -40,3 +41,5 @@ print(f"O número 20 aparece {quantidade} vezes")
 
 indice = numeros.index(20)
 print(f"O primeira ocorrência está na índice {indice}")
+
+
