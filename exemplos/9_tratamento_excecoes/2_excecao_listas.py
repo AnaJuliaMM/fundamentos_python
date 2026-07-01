@@ -12,3 +12,5 @@ except IndexError:
     print("Esse ID não existe")
 except ValueError:
     print("Você digitou um índice que não é número")
+except:
+    print("Aconteceu um erro")
