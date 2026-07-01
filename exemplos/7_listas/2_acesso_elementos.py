@@ -27,3 +27,6 @@ print(jogadores[3:])
 
 # Exibir os elementos de indíce 1 até 5 pulando de 2 em 2
 print(jogadores[1:6:2])
+
+# Inverter a lista (mostrar de trás para frente)
+print(jogadores[::-1])  
